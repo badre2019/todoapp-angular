@@ -4,7 +4,7 @@ angular todoapp
 étape pour l'installation
 1. Cloner l'application
 
-git clone https://github.com/callicoder/spring-boot-mongodb-angular-todo-app.git
+git clone https://github.com/badre2019/todoapp-angular.git
 
 2. Lancer l'application backend en utilisant maven
 
