@@ -13,6 +13,7 @@ Le serveur backend démarera à l'adresse suivante http://localhost:8080.
 
 3. Run the frontend app using npm
 
+cd todoappangular
 cd angular-frontend
 npm install
 npm start
